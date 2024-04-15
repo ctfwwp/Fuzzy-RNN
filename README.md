@@ -5,4 +5,6 @@
 
 Fuzzy Testing Algorithm for Modbus/TCP Based on Recurrent Neural Networks
 
-doi：https://doi.org/10.19678/j.issn.1000-3428.0051190
+URL: http://www.ecice06.com/CN/10.19678/j.issn.1000-3428.0051190
+
+doi：10.19678/j.issn.1000-3428.0051190
